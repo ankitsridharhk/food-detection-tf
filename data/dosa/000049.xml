@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dosa</folder>
+	<filename>000049.jpg</filename>
+	<path>/home/ankit/downloads/dosa/000049.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4607</width>
+		<height>3997</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>1158</ymin>
+			<xmax>3763</xmax>
+			<ymax>3598</ymax>
+		</bndbox>
+	</object>
+</annotation>
