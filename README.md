@@ -8,6 +8,7 @@ Important links:<br>
 https://heartbeat.fritz.ai/using-tensorflow-lite-and-ml-kit-to-build-custom-machine-learning-models-for-android-a7e272d3c61e<br>
 https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/<br>
 https://hackernoon.com/object-detection-in-google-colab-with-custom-dataset-5a7bb2b0e97e<br>
+https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359<br>
 
 <p>Prebuilt models to be used: </p>
 <li>ssd_mobilenet_v2</li>
